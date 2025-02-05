@@ -1,4 +1,4 @@
-# Blind-Nav-Android-App-for-Blind-persons
+# NavAIgate
 
 ## Overview
 Blind-Nav is an Android application designed to assist visually impaired individuals in navigating their surroundings. The app utilizes various sensors and APIs to provide real-time guidance and obstacle detection.
