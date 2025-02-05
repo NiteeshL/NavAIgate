@@ -1,3 +1,4 @@
+![NavAIgate](https://socialify.git.ci/NiteeshL/NavAIgate/image?custom_description=NavAIgate+is+an+Android+application+designed+to+assist+visually+impaired+individuals+in+navigating+their+surroundings.&description=1&language=1&name=1&owner=1&theme=Light)
 # NavAIgate
 
 ## Overview
