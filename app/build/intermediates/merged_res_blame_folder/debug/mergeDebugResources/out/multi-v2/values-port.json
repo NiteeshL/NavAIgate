@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.assistantapp-mergeDebugResources-61:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mleel\\.gradle\\caches\\8.10.2\\transforms\\db21b42812cfd2d72534e403dd51e222\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

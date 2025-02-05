@@ -1,0 +1,65 @@
+com.example.assistantapp-lifecycle-viewmodel-savedstate-2.8.3-0 C:\Users\mleel\.gradle\caches\8.10.2\transforms\044c8f3a9971c8c24fd3f308cf281d21\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.example.assistantapp-coil-base-2.4.0-1 C:\Users\mleel\.gradle\caches\8.10.2\transforms\0ade1c9e4c7ed774438f316d1a57ef2f\transformed\coil-base-2.4.0\res
+com.example.assistantapp-camera-view-1.3.4-2 C:\Users\mleel\.gradle\caches\8.10.2\transforms\0f6fbb6abfd0cb0dc86001f1c09c2724\transformed\camera-view-1.3.4\res
+com.example.assistantapp-foundation-release-3 C:\Users\mleel\.gradle\caches\8.10.2\transforms\16bed1062fa4d8e4417fe4c9d0ed8238\transformed\foundation-release\res
+com.example.assistantapp-navigation-compose-2.7.7-4 C:\Users\mleel\.gradle\caches\8.10.2\transforms\1e538d3eb682d2b6ea3a77fac6639645\transformed\navigation-compose-2.7.7\res
+com.example.assistantapp-core-1.13.1-5 C:\Users\mleel\.gradle\caches\8.10.2\transforms\1f8ec866c3d37df23e0a22d069bc8b34\transformed\core-1.13.1\res
+com.example.assistantapp-appcompat-resources-1.6.1-6 C:\Users\mleel\.gradle\caches\8.10.2\transforms\229e7f5b1c6a251ad26607ae176dbe37\transformed\appcompat-resources-1.6.1\res
+com.example.assistantapp-lifecycle-runtime-ktx-release-7 C:\Users\mleel\.gradle\caches\8.10.2\transforms\28ffad177d786524eae177e3a4a172cc\transformed\lifecycle-runtime-ktx-release\res
+com.example.assistantapp-startup-runtime-1.1.1-8 C:\Users\mleel\.gradle\caches\8.10.2\transforms\2c19cd8e2acb01c4717ffd533781e977\transformed\startup-runtime-1.1.1\res
+com.example.assistantapp-navigation-common-2.7.7-9 C:\Users\mleel\.gradle\caches\8.10.2\transforms\2c8585b06f8b6b0d854f61b47a5769b8\transformed\navigation-common-2.7.7\res
+com.example.assistantapp-lifecycle-viewmodel-compose-release-10 C:\Users\mleel\.gradle\caches\8.10.2\transforms\31ab8503b435d64ba6f9ce6b63a9297a\transformed\lifecycle-viewmodel-compose-release\res
+com.example.assistantapp-lifecycle-runtime-release-11 C:\Users\mleel\.gradle\caches\8.10.2\transforms\36629ce6121e1456dcff4737f4298ed1\transformed\lifecycle-runtime-release\res
+com.example.assistantapp-activity-ktx-1.9.0-12 C:\Users\mleel\.gradle\caches\8.10.2\transforms\38e3eae25cfa988a7bacdd530de2ac92\transformed\activity-ktx-1.9.0\res
+com.example.assistantapp-runtime-saveable-release-13 C:\Users\mleel\.gradle\caches\8.10.2\transforms\3b9fee890079776ab403e407dde1005c\transformed\runtime-saveable-release\res
+com.example.assistantapp-customview-poolingcontainer-1.0.0-14 C:\Users\mleel\.gradle\caches\8.10.2\transforms\3c40c69a991b1934667db7ca1f8d50db\transformed\customview-poolingcontainer-1.0.0\res
+com.example.assistantapp-savedstate-1.2.1-15 C:\Users\mleel\.gradle\caches\8.10.2\transforms\4b892770f6a4c18b68e7f6ebf1e1c2fa\transformed\savedstate-1.2.1\res
+com.example.assistantapp-camera-lifecycle-1.3.4-16 C:\Users\mleel\.gradle\caches\8.10.2\transforms\50d0a60f130d8543b6ee1e252cc5ef05\transformed\camera-lifecycle-1.3.4\res
+com.example.assistantapp-lifecycle-livedata-2.8.3-17 C:\Users\mleel\.gradle\caches\8.10.2\transforms\521e8775cabe7087b5f24d253a34d690\transformed\lifecycle-livedata-2.8.3\res
+com.example.assistantapp-runtime-release-18 C:\Users\mleel\.gradle\caches\8.10.2\transforms\5c6dbc315a8201732b129890b08ff15c\transformed\runtime-release\res
+com.example.assistantapp-emoji2-1.3.0-19 C:\Users\mleel\.gradle\caches\8.10.2\transforms\658216e9cb740dbd7d6339036a0308ce\transformed\emoji2-1.3.0\res
+com.example.assistantapp-navigation-runtime-ktx-2.7.7-20 C:\Users\mleel\.gradle\caches\8.10.2\transforms\6b12a0a61ced654fb3507b9b2dabb006\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.assistantapp-lifecycle-viewmodel-ktx-2.8.3-21 C:\Users\mleel\.gradle\caches\8.10.2\transforms\6c18a226d8fd8fcdbac9ffb36f8fd068\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.example.assistantapp-lifecycle-process-2.8.3-22 C:\Users\mleel\.gradle\caches\8.10.2\transforms\6f9fd30473f4b595a0cd929b2f44f2ae\transformed\lifecycle-process-2.8.3\res
+com.example.assistantapp-material-icons-core-release-23 C:\Users\mleel\.gradle\caches\8.10.2\transforms\71062b10ae69627cb4e62ab20f965f28\transformed\material-icons-core-release\res
+com.example.assistantapp-activity-compose-1.9.0-24 C:\Users\mleel\.gradle\caches\8.10.2\transforms\7241d596501a204429dd343069e68d65\transformed\activity-compose-1.9.0\res
+com.example.assistantapp-lifecycle-livedata-core-ktx-2.8.3-25 C:\Users\mleel\.gradle\caches\8.10.2\transforms\732ed912e4d64254f0d57e5240e39e05\transformed\lifecycle-livedata-core-ktx-2.8.3\res
+com.example.assistantapp-lifecycle-viewmodel-release-26 C:\Users\mleel\.gradle\caches\8.10.2\transforms\736a1c53a7a0f3c54806a5b8b942aa8f\transformed\lifecycle-viewmodel-release\res
+com.example.assistantapp-profileinstaller-1.3.1-27 C:\Users\mleel\.gradle\caches\8.10.2\transforms\7c3ef3f0b40569f09183ccea6d26c0e6\transformed\profileinstaller-1.3.1\res
+com.example.assistantapp-ui-test-manifest-1.6.7-28 C:\Users\mleel\.gradle\caches\8.10.2\transforms\7c630fa8820cbe0998dddd3d6dbcb346\transformed\ui-test-manifest-1.6.7\res
+com.example.assistantapp-material-icons-extended-release-29 C:\Users\mleel\.gradle\caches\8.10.2\transforms\7e9124f6207ebea3946f32a92eff0df5\transformed\material-icons-extended-release\res
+com.example.assistantapp-ui-tooling-data-release-30 C:\Users\mleel\.gradle\caches\8.10.2\transforms\7e920fb125c899cd9fecb37889fee5b5\transformed\ui-tooling-data-release\res
+com.example.assistantapp-animation-core-release-31 C:\Users\mleel\.gradle\caches\8.10.2\transforms\876363b6ba480252316037f1877e8872\transformed\animation-core-release\res
+com.example.assistantapp-navigation-runtime-2.7.7-32 C:\Users\mleel\.gradle\caches\8.10.2\transforms\8fd74724bf56e81ce02a332b0e32fe2b\transformed\navigation-runtime-2.7.7\res
+com.example.assistantapp-lifecycle-livedata-core-2.8.3-33 C:\Users\mleel\.gradle\caches\8.10.2\transforms\972223ad4ce597c7f5ff897899f56ba7\transformed\lifecycle-livedata-core-2.8.3\res
+com.example.assistantapp-ui-geometry-release-34 C:\Users\mleel\.gradle\caches\8.10.2\transforms\97641bb493fa12f6bd15e00d48733e05\transformed\ui-geometry-release\res
+com.example.assistantapp-savedstate-ktx-1.2.1-35 C:\Users\mleel\.gradle\caches\8.10.2\transforms\986f2da3a33b618f24e7079515a637f3\transformed\savedstate-ktx-1.2.1\res
+com.example.assistantapp-core-ktx-1.13.1-36 C:\Users\mleel\.gradle\caches\8.10.2\transforms\a5074184c2d72cfd0fca9baaca7eb17b\transformed\core-ktx-1.13.1\res
+com.example.assistantapp-activity-1.9.0-37 C:\Users\mleel\.gradle\caches\8.10.2\transforms\a698c6a0a542b2c4edd48ac366c95b43\transformed\activity-1.9.0\res
+com.example.assistantapp-animation-release-38 C:\Users\mleel\.gradle\caches\8.10.2\transforms\adca5ec6019c3702388d94e487d40f4e\transformed\animation-release\res
+com.example.assistantapp-ui-tooling-release-39 C:\Users\mleel\.gradle\caches\8.10.2\transforms\ae41043204bc79512eadeec219a5867c\transformed\ui-tooling-release\res
+com.example.assistantapp-material-release-40 C:\Users\mleel\.gradle\caches\8.10.2\transforms\b57dfb2c35ebd95d989fd053b8a64a8d\transformed\material-release\res
+com.example.assistantapp-ui-tooling-preview-release-41 C:\Users\mleel\.gradle\caches\8.10.2\transforms\ba179792690132e9ec39e687008e3cf3\transformed\ui-tooling-preview-release\res
+com.example.assistantapp-fragment-1.3.6-42 C:\Users\mleel\.gradle\caches\8.10.2\transforms\be153daebcd4d3d73c3911d33ba0f491\transformed\fragment-1.3.6\res
+com.example.assistantapp-ui-release-43 C:\Users\mleel\.gradle\caches\8.10.2\transforms\c41fa855ac46b4e8eab0ab7678db85a2\transformed\ui-release\res
+com.example.assistantapp-ui-text-release-44 C:\Users\mleel\.gradle\caches\8.10.2\transforms\c70c0b5e73180866c0453ff2ec151e80\transformed\ui-text-release\res
+com.example.assistantapp-camera-core-1.3.4-45 C:\Users\mleel\.gradle\caches\8.10.2\transforms\c8cf8fbb9ac4af0b126af9ce33a891de\transformed\camera-core-1.3.4\res
+com.example.assistantapp-core-runtime-2.2.0-46 C:\Users\mleel\.gradle\caches\8.10.2\transforms\d7315d3cfda2b44d93dfface7afad7c3\transformed\core-runtime-2.2.0\res
+com.example.assistantapp-material-ripple-release-47 C:\Users\mleel\.gradle\caches\8.10.2\transforms\d8a8f806a9fb93385347ea7baa5c6613\transformed\material-ripple-release\res
+com.example.assistantapp-appcompat-1.6.1-48 C:\Users\mleel\.gradle\caches\8.10.2\transforms\db21b42812cfd2d72534e403dd51e222\transformed\appcompat-1.6.1\res
+com.example.assistantapp-ui-graphics-release-49 C:\Users\mleel\.gradle\caches\8.10.2\transforms\dc2094269daedc1b3768be4f76a1b2b9\transformed\ui-graphics-release\res
+com.example.assistantapp-ui-util-release-50 C:\Users\mleel\.gradle\caches\8.10.2\transforms\e10fac0f916e01e38c6d6c5a32e065c6\transformed\ui-util-release\res
+com.example.assistantapp-camera-video-1.3.4-51 C:\Users\mleel\.gradle\caches\8.10.2\transforms\e21a4bccad192db16f1a27df2ff76051\transformed\camera-video-1.3.4\res
+com.example.assistantapp-navigation-common-ktx-2.7.7-52 C:\Users\mleel\.gradle\caches\8.10.2\transforms\e6b8880425521ab54b7a7fbc56c3a84e\transformed\navigation-common-ktx-2.7.7\res
+com.example.assistantapp-camera-camera2-1.3.4-53 C:\Users\mleel\.gradle\caches\8.10.2\transforms\ea73013d7220b1fbdab603dc880028cb\transformed\camera-camera2-1.3.4\res
+com.example.assistantapp-emoji2-views-helper-1.3.0-54 C:\Users\mleel\.gradle\caches\8.10.2\transforms\ec2550a634d17dc1f672d79ab90fb494\transformed\emoji2-views-helper-1.3.0\res
+com.example.assistantapp-ui-unit-release-55 C:\Users\mleel\.gradle\caches\8.10.2\transforms\f0bf208cfb9905f61fe0f1517040676a\transformed\ui-unit-release\res
+com.example.assistantapp-material3-release-56 C:\Users\mleel\.gradle\caches\8.10.2\transforms\f0f52790e00149101d0329791cd32c67\transformed\material3-release\res
+com.example.assistantapp-foundation-layout-release-57 C:\Users\mleel\.gradle\caches\8.10.2\transforms\f1735ff9de0e0868ff4d4688c1d1f457\transformed\foundation-layout-release\res
+com.example.assistantapp-annotation-experimental-1.4.0-58 C:\Users\mleel\.gradle\caches\8.10.2\transforms\f322c9bb82c843b79d8191789e19986d\transformed\annotation-experimental-1.4.0\res
+com.example.assistantapp-resValues-59 D:\NavAIgate (4)\Blind-Nav-Android-App-for-Blind-persons\app\build\generated\res\resValues\debug
+com.example.assistantapp-packageDebugResources-60 D:\NavAIgate (4)\Blind-Nav-Android-App-for-Blind-persons\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.assistantapp-packageDebugResources-61 D:\NavAIgate (4)\Blind-Nav-Android-App-for-Blind-persons\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.assistantapp-debug-62 D:\NavAIgate (4)\Blind-Nav-Android-App-for-Blind-persons\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.assistantapp-debug-63 D:\NavAIgate (4)\Blind-Nav-Android-App-for-Blind-persons\app\src\debug\res
+com.example.assistantapp-main-64 D:\NavAIgate (4)\Blind-Nav-Android-App-for-Blind-persons\app\src\main\res
