@@ -9,6 +9,8 @@ NavAIgate is an Android application designed to assist visually impaired individ
 - **Obstacle Detection**: Alerts users of nearby obstacles using audio cues.
 - **Location Tracking**: Tracks the user's location and provides updates.
 - **User-Friendly Interface**: Tap with haptic feedback based interface for easy navigation.
+  
+<img width="945" height="735" alt="image" src="https://github.com/user-attachments/assets/8b4d1e29-d2b4-4991-b3da-0755b7aabc55" />
 
 ## Installation
 1. Clone the repository:
