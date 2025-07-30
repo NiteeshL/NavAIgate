@@ -67,6 +67,10 @@ The application operates in a continuous loop, ensuring the user receives timely
 2. Follow the on-screen instructions to set up your profile.
 3. Start navigating by entering your destination or using voice commands.
 
+
+https://github.com/user-attachments/assets/5d3bef0c-869d-405a-8442-1dea719a6f89
+
+
 ## Contributing
 We welcome contributions! Please follow these steps:
 1. Fork the repository.
